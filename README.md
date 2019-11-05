@@ -5,4 +5,4 @@ Magento utilities, scripts, helpers
 Quickly install magerun2 into an environment
 
 Usage:
-curl -s https://github.com/falljer/magento-utils/raw/magento-utils.sh | bash /dev/stdin
+curl -s https://github.com/falljer/magento-utils/raw/master/install_magerun2.sh | bash /dev/stdin
