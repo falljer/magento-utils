@@ -7,7 +7,7 @@ curl -sS -o n98-magerun2-latest.phar.sha256 https://files.magerun.net/sha256.php
 shasum -a 256 -c n98-magerun2-latest.phar.sha256
 
 chmod +x ./n98-magerun2-latest.phar
-sudo mv ./n98-magerun2-latest.phar /usr/local/bin/
+sudo mv ./n98-magerun2-latest.phar /usr/local/bin/n98-magerun2
 
 echo "Installed."
 
